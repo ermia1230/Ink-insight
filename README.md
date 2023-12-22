@@ -1,13 +1,18 @@
 # InkInsight
+## Short Description
+InkInsight is designed to facilitate the reading journey for book enthusiasts by providing a user-friendly interface. The app enables users to explore a diverse library, discover comprehensive book metadata, and customize reading lists while expressing their opinions through a user-friendly rating system. This project is done in a group of four. The github repository that the group worked on: 
+https://gits-15.sys.kth.se/danielib/InkInsight
 
-# SETUP:
+# Local SETUP:
 ### 1. install node.js
 ### 2. npm install
 ### 3. npm start
-### 4. create a config folder and add apiConfig.js and firebaseConfig.js (we were told not to submit our config files)
+### 4. Create a config folder and add apiConfig.js and firebaseConfig.js (Not upöladed)
 
-##### we are using this api: https://rapidapi.com/dfskGT/api/book-finder1/
-# InkInsight: Book Lover's App
+# Deployed App: InkInsight: Book Lover's App
+https://inkinsight-d4e2b.web.app/
+
+##### API used in the project: https://rapidapi.com/dfskGT/api/book-finder1/
 
 ## Short Description
 InkInsight is designed to facilitate the reading journey for book enthusiasts by providing a user-friendly interface. The app enables users to explore a diverse library, discover comprehensive book metadata, and customize reading lists while expressing their opinions through a user-friendly rating system.
